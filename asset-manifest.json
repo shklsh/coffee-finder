@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coffee-finder/static/css/main.d68fa30f.chunk.css",
+    "main.js": "/coffee-finder/static/js/main.10a33973.chunk.js",
+    "main.js.map": "/coffee-finder/static/js/main.10a33973.chunk.js.map",
+    "runtime-main.js": "/coffee-finder/static/js/runtime-main.69af96f9.js",
+    "runtime-main.js.map": "/coffee-finder/static/js/runtime-main.69af96f9.js.map",
+    "static/css/2.42611077.chunk.css": "/coffee-finder/static/css/2.42611077.chunk.css",
+    "static/js/2.0bc8b543.chunk.js": "/coffee-finder/static/js/2.0bc8b543.chunk.js",
+    "static/js/2.0bc8b543.chunk.js.map": "/coffee-finder/static/js/2.0bc8b543.chunk.js.map",
+    "index.html": "/coffee-finder/index.html",
+    "precache-manifest.2f665b633ebc875c4d0c0aff975f48ba.js": "/coffee-finder/precache-manifest.2f665b633ebc875c4d0c0aff975f48ba.js",
+    "service-worker.js": "/coffee-finder/service-worker.js",
+    "static/css/2.42611077.chunk.css.map": "/coffee-finder/static/css/2.42611077.chunk.css.map",
+    "static/css/main.d68fa30f.chunk.css.map": "/coffee-finder/static/css/main.d68fa30f.chunk.css.map",
+    "static/js/2.0bc8b543.chunk.js.LICENSE.txt": "/coffee-finder/static/js/2.0bc8b543.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69af96f9.js",
+    "static/css/2.42611077.chunk.css",
+    "static/js/2.0bc8b543.chunk.js",
+    "static/css/main.d68fa30f.chunk.css",
+    "static/js/main.10a33973.chunk.js"
+  ]
+}
